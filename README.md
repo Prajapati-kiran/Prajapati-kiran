@@ -30,14 +30,14 @@ prajaatikiran502@gmail.com
 
 ### Projects
 
-<p><a href="#"><img align="left" src="https://prajapati-kiran.github.io/readme-related-content/emp-svg-file/emp.svg" alt="prajapati-kiran" /></a></p>
-<p><a href="https://github.com/Prajapati-kiran/Real-Estate-price-prediction"><img align="left" src="https://prajapati-kiran.github.io/readme-related-content/ml-svg-file/ml.svg" alt="prajapati-kiran" /></a></p>
-<p><a href="#"><img align="left" src="https://prajapati-kiran.github.io/readme-related-content/login-svg-file/login.svg" alt="prajapati-kiran" /></a></p>
-<p><a href="#"><img src="https://prajapati-kiran.github.io/readme-related-content/tricards-svg-file/tricards.svg" alt="prajapati-kiran" /></a></p>
+<p><a href="#"><img align="left" src="https://prajapati-kiran.github.io/readme-related-content/emp-svg-file/emp.svg" alt="prajapati-kiran"  height="200" width="400" /></a></p>
+<p><a href="https://github.com/Prajapati-kiran/Real-Estate-price-prediction"><img align="left" src="https://prajapati-kiran.github.io/readme-related-content/ml-svg-file/ml.svg" alt="prajapati-kiran" height="200" width="400"  /></a></p>
+<p><a href="#"><img align="left" src="https://prajapati-kiran.github.io/readme-related-content/login-svg-file/login.svg" alt="prajapati-kiran" height="200" width="400"  /></a></p>
+<p><a href="#"><img src="https://prajapati-kiran.github.io/readme-related-content/tricards-svg-file/tricards.svg" alt="prajapati-kiran" height="200" width="400" /></a></p>
 
 
 ### Connect with me
-<p align="left">
+<p>
 <a href="https://twitter.com/twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a> &nbsp
 <a href="https://linkedin.com/in/linkedin username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin username" height="30" width="40" /></a> &nbsp
 <a href="https://instagram.com/insta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta" height="30" width="40" /></a> &nbsp
@@ -50,7 +50,7 @@ prajaatikiran502@gmail.com
 </p>
 
 ### Languages and Tools
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a> &nbsp  &nbsp
+<p > <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a> &nbsp  &nbsp
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>&nbsp &nbsp
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>&nbsp &nbsp
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
