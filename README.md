@@ -26,7 +26,7 @@ Venturing into the vast realm of web development
 prajaatikiran502@gmail.com
 
 ### Resume 
-📄 Know about my experiences [resume link](resume link)
+📄 [resume link](resume link)
 
 ### Projects
 
