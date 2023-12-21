@@ -29,22 +29,22 @@ prajaatikiran502@gmail.com
 📄 [resume link](resume link)
 
 ### Projects
-
+<p align="center">
 <p><a href="#"><img align="left" src="https://prajapati-kiran.github.io/readme-related-content/emp-svg-file/emp.svg" alt="prajapati-kiran"  height="200" width="400" /></a></p>
-<p><a href="https://github.com/Prajapati-kiran/Real-Estate-price-prediction"><img align="left" src="https://prajapati-kiran.github.io/readme-related-content/ml-svg-file/ml.svg" alt="prajapati-kiran" height="200" width="400"  /></a></p>
+<p><a href="https://github.com/Prajapati-kiran/Real-Estate-price-prediction"><img src="https://prajapati-kiran.github.io/readme-related-content/ml-svg-file/ml.svg" alt="prajapati-kiran" height="200" width="400"  /></a></p>
 <p><a href="#"><img align="left" src="https://prajapati-kiran.github.io/readme-related-content/login-svg-file/login.svg" alt="prajapati-kiran" height="200" width="400"  /></a></p>
 <p><a href="#"><img src="https://prajapati-kiran.github.io/readme-related-content/tricards-svg-file/tricards.svg" alt="prajapati-kiran" height="200" width="400" /></a></p>
-
+</p>
 
 ### Connect with me
-<p>
+<p >
 <a href="https://twitter.com/twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a> &nbsp
 <a href="https://linkedin.com/in/linkedin username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin username" height="30" width="40" /></a> &nbsp
 <a href="https://instagram.com/insta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta" height="30" width="40" /></a> &nbsp
 <a href="https://discord.gg/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord" height="30" width="40" /></a></p>
 
 ### Coding Profiles
-<p><a href="https://www.codechef.com/users/codchef" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codchef" height="30" width="40" /></a> &nbsp
+<p ><a href="https://www.codechef.com/users/codchef" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codchef" height="30" width="40" /></a> &nbsp
 <a href="https://www.hackerrank.com/hackerrank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a> &nbsp
 <a href="https://www.leetcode.com/leetcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a> &nbsp
 </p>
@@ -66,8 +66,8 @@ prajaatikiran502@gmail.com
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> &nbsp  &nbsp
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a> 
 </p>
-
+<p >
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prajapati-kiran&" alt="prajapati-kiran" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=prajapati-kiran&show_icons=true&locale=en" alt="prajapati-kiran" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prajapati-kiran&show_icons=true&locale=en&layout=compact" alt="prajapati-kiran" /></p>
-
+</p>
