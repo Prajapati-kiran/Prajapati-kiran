@@ -30,9 +30,10 @@ prajaatikiran502@gmail.com
 
 ### Projects
 <p align="center">
-<p><a href="https://github.com/Prajapati-kiran/Employee-Management-System"><img align="left" src="https://prajapati-kiran.github.io/readme-related-content/emp-svg-file/emp.svg" alt="prajapati-kiran"  height="200" width="400" /></a></p>
-<p><a href="https://github.com/Prajapati-kiran/Real-Estate-price-prediction"><img src="https://prajapati-kiran.github.io/readme-related-content/ml-svg-file/ml.svg" alt="prajapati-kiran" height="200" width="400"  /></a></p>
+<p><a href="https://github.com/Prajapati-kiran/Quiz"><img align="left" src="https://prajapati-kiran.github.io/readme-related-content/quiz-svg-file/quiz.svg" alt="prajapati-kiran"  height="200" width="400" /></a></p>
+<p><a href="https://github.com/Prajapati-kiran/Employee-Management-System"><img src="https://prajapati-kiran.github.io/readme-related-content/emp-svg-file/emp.svg" alt="prajapati-kiran"  height="200" width="400" /></a></p>
 <p><a href="#"><img align="left" src="https://prajapati-kiran.github.io/readme-related-content/login-svg-file/login.svg" alt="prajapati-kiran" height="200" width="400"  /></a></p>
+<p><a href="https://github.com/Prajapati-kiran/Real-Estate-price-prediction"><img src="https://prajapati-kiran.github.io/readme-related-content/ml-svg-file/ml.svg" alt="prajapati-kiran" height="200" width="400"  /></a></p>
 <p><a href="https://github.com/Prajapati-kiran/TEEN_PATTI"><img src="https://prajapati-kiran.github.io/readme-related-content/tricards-svg-file/tricards.svg" alt="prajapati-kiran" height="200" width="400" /></a></p>
 </p>
 
